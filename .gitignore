@@ -1,0 +1,7 @@
+.venv/
+.DS_Store
+__pycache__/
+*.py[cod]
+models/*
+!models/.gitkeep
+outputs/

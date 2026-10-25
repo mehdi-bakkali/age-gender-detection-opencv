@@ -88,8 +88,5 @@ The available age ranges are `0–2`, `4–6`, `8–12`, `15–20`, `25–32`, `
 
 ## Credits
 
-- Project walkthrough: [DataFlair – Gender and Age Detection with OpenCV](https://data-flair.training/blogs/python-project-gender-age-detection/)
 - Pretrained age and gender models: Gil Levi and Tal Hassner, [Age and Gender Classification Using Convolutional Neural Networks](https://talhassner.github.io/home/publication/2015_CVPR)
 - Face detector and OpenCV DNN example: [OpenCV / LearnOpenCV AgeGender project](https://github.com/spmallick/learnopencv/tree/master/AgeGender)
-
-Model files are downloaded from their respective source repositories at setup time and are not included in this project. Please review the original model and dataset terms before redistribution or commercial use.

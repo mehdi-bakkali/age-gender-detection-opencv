@@ -77,15 +77,6 @@ Press **Q** or **Esc** to close the video window. Change `0` if your camera uses
 
 The available age ranges are `0–2`, `4–6`, `8–12`, `15–20`, `25–32`, `38–43`, `48–53`, and `60–100`. The age model was trained as a classifier, so it does not return an exact age.
 
-## Project structure
-
-```text
-.
-├── gad.py              # Image, video, and webcam inference
-├── download_models.py  # Downloads pretrained model files
-├── requirements.txt    # Python dependencies
-└── models/             # Downloaded locally; model weights are not committed
-```
 
 ## Troubleshooting
 
